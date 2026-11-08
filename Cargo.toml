@@ -1,11 +1,10 @@
 [package]
-name = "sigmaos-archlinux-veracrypt"
+name = "sigmaos_archlinux_veracrypt"
 version = "0.1.0"
 edition = "2021"
-authors = ["SigmaOS Contributors"]
-description = "SigmaOS archlinux-veracrypt component (Arch Linux inspired)"
-license = "MIT OR Apache-2.0"
+license = "MIT"
+description = "SigmaOS archlinux-veracrypt component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
-name = "sigmaos_archlinux-veracrypt"
+name = "sigmaos_archlinux_veracrypt"
 path = "src/lib.rs"
