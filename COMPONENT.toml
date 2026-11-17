@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-veracrypt"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-veracrypt component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
